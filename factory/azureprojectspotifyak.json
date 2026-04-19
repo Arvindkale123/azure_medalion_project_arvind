@@ -1,0 +1,9 @@
+{
+	"name": "azureprojectspotifyak",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fc37d0d-5461-4f86-aac0-3da1794efac8",
+		"tenantId": "be355b48-2552-413e-ab82-2a7a29eebfd2"
+	}
+}
